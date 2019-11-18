@@ -4,7 +4,7 @@
 @[vega-lite](https://data.world/example.vl.json)
 
 
-@import "https://data.world/example.vl.jso" {as="vega-lite"}
+@import "https://data.world/example.vl.json" {as="vega-lite"}
 
 ```vega-lite
 {
