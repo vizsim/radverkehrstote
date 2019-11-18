@@ -4,6 +4,8 @@
 @[vega-lite](https://data.world/example.vl.json)
 
 
+@import "https://data.world/example.vl.jso" {as="vega-lite"}
+
 ```vega-lite
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
