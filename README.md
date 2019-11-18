@@ -4,7 +4,7 @@
 @[vega-lite](https://data.world/example.vl.json)
 
 
-@import "https://data.world/example.vl.json" {as="vega-lite"}
+@import "https://github.com/vizsim/BerlinTrafficCounts/blob/master/jsons_trendcharts/plz_trendChart_10367.json" {as="vega-lite"}
 
 ```vega-lite
 {
@@ -25,3 +25,4 @@
   }
 }
 ```
+@import "https://vizsim.github.io/BerlinTrafficCounts/jsons_trendcharts/plz_trendChart_10367.json" {as="vega-lite"}
