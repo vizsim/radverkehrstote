@@ -25,4 +25,4 @@
   }
 }
 ```
-@import "https://vizsim.github.io/BerlinTrafficCounts/jsons_trendcharts/plz_trendChart_10367.json" {as="vega-lite"}
+@import "https://vizsim.github.io/BerlinTrafficCounts/jsons_trendcharts/plz_trendChart_10367.json" {as="vega"}
