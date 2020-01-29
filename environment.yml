@@ -42,6 +42,5 @@ dependencies:
   - setuptools=45.1.0=py37_0
   - six=1.14.0=py37_0
   - sqlite=3.30.1
-  - winpty=0.4.3
   - xlrd=1.2.0=py_0
 
